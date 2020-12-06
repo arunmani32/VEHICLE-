@@ -3,3 +3,8 @@ Height           :44m
 Diameter         :2.8m
 Number of stages :4
 Lift off mass    :320tonnes(XL)
+Second stage     :PS2
+PSLV uses an Earth storable liquid rocket engine for its second stage ,know as the Vikas engine,developed by Liquid Propulsion System Center.
+Engine           :Vikas
+Fuel             :UDMH +N2O4
+Max.Thurst       :799KN
